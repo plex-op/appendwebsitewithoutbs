@@ -1,11 +1,10 @@
 /* mobile responsive */
 
 @media (320px <= width <= 768px) {
-  /* .nav-menu {
+   .nav-menu {
     display: none;
-  } */
+  } 
   .nav-menu {
-    display:none;
     position: fixed;
     width: 90%;
     left: 0;
