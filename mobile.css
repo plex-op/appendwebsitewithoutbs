@@ -5,6 +5,7 @@
     display: none;
   } */
   .nav-menu {
+    display:none;
     position: fixed;
     width: 90%;
     left: 0;
